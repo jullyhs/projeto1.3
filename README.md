@@ -15,7 +15,7 @@ body {
   z-index: 1000;
 }
 
-.contraste-alto {
+contraste-alto {
   background: #000 !important;
   color: #fff !important;
 }
